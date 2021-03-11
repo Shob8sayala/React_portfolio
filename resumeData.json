@@ -1,0 +1,143 @@
+{
+  "main": {
+    "name": "Shobhit Sayala",
+    "occupation": "Electronics and Communication Engineering Undergraduate",
+    "description": "College student by Day, Software Developer by Night.",
+    "image": "IG_Sonny.jpeg",
+    "bio": "My name is Shobhit, I'm a C++ developer looking for an internship",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "shob8sayala@gmail.com",
+    "phone": "+91 7011299826",
+    "address": {
+      "street": "D-6/11, Radio Colony",
+      "city": "Delhi",
+      "state": "Delhi",
+      "zip": "110009"
+    },
+    "website": "https://shobhit-sayala-portfolio.netlify.app/",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Shob8.Stryder/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shobhit-sayala-22326a168/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/rdx.stryder/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Shob8sayala",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Some of my acquired skills",
+    "education": [
+      {
+        "school": "Netaji Subhas University of Technology",
+        "degree": "Electronics and Communication Engineering",
+        "graduated": "to be graduated, April 2023",
+        "description": "Currently studying"
+      }
+    ],
+    "work": [
+      {
+        "company": "RedOx Reapers",
+        "title": "Editor",
+        "years": "April 2020 - Present",
+        "description": "Editing and playing"
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "80%"
+      },
+      {
+        "name": "React and CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Adobe Ae and Pr",
+        "level": "40%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "python3",
+        "level": "40%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Covid Tracker with React",
+        "category": "Covid tracker built with ReactJs",
+        "image": "covid-tracker.jpeg",
+        "url": "https://op-covid-tracker-69420.web.app/"
+      },
+      {
+        "title": "Flutter apps",
+        "category": "Flutter",
+        "image": "github.png",
+        "url": "https://github.com/Shob8sayala?tab=repositories"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png",
+        "url": "https://facebook-clone-665ac.web.app/"
+      },
+      {
+        "title": "DrumKit player with JS",
+        "category": "JS Challenge",
+        "image": "drumkit.png",
+        "url": "https://github.com/Shob8sayala/JS-30-Days/tree/master/D1-Drum%20Kit"
+      },
+      {
+        "title": "JS Clock",
+        "category": "JS Challenge",
+        "image": "clock.png",
+        "url": "https://github.com/Shob8sayala/JS-30-Days/tree/master/D-2%20JS%20Clock"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "My friend is a very good programmer and a very nice person in general",
+        "user": "Aman Sharma"
+      },
+      {
+        "text": "One of the most talented person I have come across. Can handle tasks with ease and is very hard working. Also very good friend of mine",
+        "user": "Saksham Gupta"
+      },
+      {
+        "text": "Nice buddy of mine and hard working fella",
+        "user": "Utkarsh Gupta"
+      }
+    ]
+  }
+}
